@@ -85,10 +85,6 @@ git clone https://github.com/Ibn-Omar-Romel/Car-Rental-Service.git
   <li>Update the database credentials in <code>All PHP Files/Connection.php</code> if necessary.</li>
 </ul>
 
-<h3>4. Launch</h3>
-<p>Open your browser and navigate to <code>http://localhost/CAR_RENTAL_SERVICE/All PHP Files/Landing_Page.php</code>.</p>
-
-<hr />
 
 <div align="center">
   <p>© 2026 | Developed by Romel</p>
